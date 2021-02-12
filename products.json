@@ -1,0 +1,2002 @@
+[
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
+    "node": {
+      "entityId": 112,
+      "name": "Black Hat",
+      "path": "/next-js-enamel-mug/",
+      "brand": null,
+      "description": "<p>The Next.js beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing.</p>\n<p>&bull; 60% cotton, 40% acrylic<br />&bull; Breathable cotton blend<br />&bull; Form-fitting shape<br />&bull; One size fits most</p>",
+      "prices": {
+        "price": {
+          "value": 20,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/112/376/Hat-front-black__72990__80465.1612641601.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/112/377/Hat-back-black__57260__74982.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/112/392/Hat-left-black__51142__61565.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/112/381/Hat-front-white__31525__78894.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/112/384/Hat-left-white__29807__84360.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/112/388/Hat-back-white__92043__83135.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 77,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE=",
+    "node": {
+      "entityId": 113,
+      "name": "Lightweight Jacket",
+      "path": "/matte-black-magic-mug/",
+      "brand": {
+        "entityId": 37
+      },
+      "description": "<p>Add a little zing to your winter wardrobe with this vibrant Winter-breaker Jacket. With a brushed fleece inside, and a relaxed unisex fit, this jacket is just the stuff of the dreams, so be quick to grab yourself one!<br /><br /><span>Long sleeve ripstop jacket colorblocked in black. Rough pattern in obsidian black and brown printed throughout. Printed graphic in white throughout. Logo-woven webbing trim in white and black throughout. Bungee-style drawstring at hood featuring rubberized logo hardware. Zip closure at front. Rubberized logo appliqu&eacute; at chest. Welt pockets and textile logo patch in orange at waist. Elasticized cuffs. Partially lined. Black hardware.</span></p>",
+      "prices": {
+        "price": {
+          "value": 249.99,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/113/406/Men-Jacket-Front-Black__15466__49697.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/113/383/Men-Jacket-Side-Black__68202__18866.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/113/412/Men-Jacket-Back-Black__33864__55599.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/113/427/Men-Jacket-Front-White__95300__00164.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/113/393/Men-Jacket-Side-White__91924__80807.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/113/414/Men-Jacket-Back-White__02866__10629.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 146,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 152,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 160,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 167,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 171,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 175,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 130,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Black",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#000000"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "White",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#FFFFFF"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 133,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjI=",
+    "node": {
+      "entityId": 114,
+      "name": "T-Shirt",
+      "path": "/jacket/",
+      "brand": {
+        "entityId": 37
+      },
+      "description": "<p>This t-shirt is a must-have in your wardrobe, combining the timeless fit of a classic tee with an intricate embroidered detail that brings the shirt to a whole new level. It's soft and durable, so be prepared to have a new favorite t-shirt!<br /><br /></p>",
+      "prices": {
+        "price": {
+          "value": 60.12,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/114/396/Men-TShirt-Black-Front__70046__56014.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/114/382/Men-TShirt-Black-Left-Side__72119__72946.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/114/397/Men-TShirt-Black-Back__57266__67863.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/114/387/Men-TShirt-White-Front__99616__16696.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/114/378/Men-TShirt-White-Left-Side__69000__16579.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/114/391/Men-TShirt-White-Back__33450__46830.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 82,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 83,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 84,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 86,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 90,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 95,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 99,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 100,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 103,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 105,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 115,
+              "displayName": "color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Black",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#FFFFFF"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "White",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#000000"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 116,
+              "displayName": "size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "XS"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "XL"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "XXL"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjM=",
+    "node": {
+      "entityId": 116,
+      "name": "Short sleeve t-shirt",
+      "path": "/ladies-short-sleeve-t-shirt/",
+      "brand": null,
+      "description": "<p>A super-soft, form-fitting, breathable t-shirt with a slightly lower neckline than a classic t-shirt.</p>\n<p>&bull; Tri-blend construction (50% polyester/25% cotton/25% rayon)<br />&bull; Pre-shrunk fabric<br />&bull; 40 singles thread weight<br />&bull; Ribbed crew neck with set-in sleeves<br />&bull; Form fitting</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 25,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/116/380/mockup-31b14bb5__19161__18117.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/116/386/mockup-c83ee0d3__79960__72335.1612641601.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/116/390/mockup-7e303c9b__44172__32226.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/116/395/mockup-2b1dac14__24899__34431.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 80,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/1_source_1612641602.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 85,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/5_source_1612641602.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 97,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/13_source_1612641602.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 107,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/22_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 118,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/33_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 121,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/36_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 130,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/45_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 134,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/48_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 155,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/65_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 173,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/82_source_1612641604.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 113,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Grey Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#C1A7A7"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Oatmeal Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#F7CF95"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Orange Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#FCCD4D"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Aqua Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#00EAFF"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 114,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjQ=",
+    "node": {
+      "entityId": 117,
+      "name": "Embroidered Champion Packable Jacket",
+      "path": "/embroidered-champion-packable-jacket/",
+      "brand": null,
+      "description": "<p>Protect yourself from the elements with this Champion packable jacket. This wind and rain resistant polyester jacket with a detailed embroidery design has a practical hood, front kangaroo pocket, and zipped pouch pocket which you can pull out and use to scrunch the jacket into for convenient storage. &bull; 100% polyester micro poplin &bull; Wind and rain resistant &bull; Half zip pullover with a hood &bull; Front kangaroo pocket &bull; Hidden zipped pouch pocket &bull; Packable in the zipped pouch pocket &bull; Adjustable bungee draw cord at hood and bottom hem &bull; Elastic cuffs &bull; Embroidered &ldquo;C&rdquo; logo on the left sleeve</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 51.5,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/117/409/mockup-c2bbbaf4__00019__03381.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/117/411/mockup-9b9894f1__67347__35598.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/117/413/mockup-2b4bcb4e__84929__09943.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 113,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/28_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 125,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/40_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 131,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/46_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 140,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/51_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 151,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/61_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 164,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/73_source_1612641604.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 125,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Black",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#0D0C0C"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Navy",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#271160"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 126,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjU=",
+    "node": {
+      "entityId": 118,
+      "name": "Bomber Jacket",
+      "path": "/bomber-jacket/",
+      "brand": null,
+      "description": "<p>Combining durability and style, this bomber jacket is a great addition to any wardrobe. It&rsquo;s areal statement piece that makes even the simplest outfit look fashionable.<br /><br />&bull; 60% cotton, 40% polyester fleece<br />&bull; 7.4 oz/yd&sup2; (250.9 g/m&sup2;)<br />&bull; Ribbed crew neck, waistband, and cuffs<br />&bull; Raglan sleeves <br />&bull; Slash pockets <br />&bull; YKK zipper</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 52,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/118/400/mockup-7500e8eb__78586__79143.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/118/408/mockup-f9f4ca3c__03903__53281.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 93,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/9_source_1612641602.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 104,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/20_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 116,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/31_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 123,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/38_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 128,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/42_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 147,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/57_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 119,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Heather Black",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#1A1818"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Heather Military Green",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#5C6D16"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 121,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjY=",
+    "node": {
+      "entityId": 119,
+      "name": "Short-Sleeve T-Shirt",
+      "path": "/next-js-short-sleeve-unisex-t-shirt/",
+      "brand": null,
+      "description": "<p>You've now found the staple t-shirt of your wardrobe. It's made of a thicker, heavier cotton, but it's still soft and comfy. And the double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! &bull; 100% ring-spun cotton &bull; Sport Grey is 90% ring-spun cotton, 10% polyester &bull; Dark Heather is 65% polyester, 35% cotton &bull; 4.5 oz/y&sup2; (153 g/m&sup2;) &bull; Pre-shrunk &bull; Shoulder-to-shoulder taping &bull; Quarter-turned to avoid crease down the center</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 13.5,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/119/398/mockup-a0dc2330__62146__11586.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/119/403/mockup-35654aa0__38532__29713.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/119/410/mockup-00446dbe__38739__92501.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 96,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/12_source_1612641602.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 108,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/23_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 115,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/30_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 120,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/35_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 124,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/39_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 127,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/43_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 123,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "White",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#FFF000"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Sport Grey",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#DAD3D3"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 124,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjc=",
+    "node": {
+      "entityId": 120,
+      "name": "Next.js Short sleeve t-shirt",
+      "path": "/short-sleeve-t-shirt/",
+      "brand": null,
+      "description": "<p>The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. &bull; Tri-blend construction (50% polyester/25% combed ring-spun cotton/25% rayon) &bull; Pre-shrunk fabric &bull; 40 singles thread weight &bull; Comfortable and durable &bull; Contemporary fit &bull; Lightweight</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 26,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/120/399/mockup-521d0b16__86945__34265.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/120/401/mockup-8e0b6c8a__57476__57334.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/120/404/mockup-0f98d04e__74522__29142.1612641602.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/120/405/mockup-8ffbef51__62574__08115.1612641602.png",
+              "altText": "",
+              "isDefault": true
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 92,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/8_source_1612641602.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 101,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/17_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 111,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/26_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 117,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/32_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 119,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/34_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 122,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/37_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 126,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/41_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 129,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/44_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 132,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/47_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 135,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/50_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 117,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Grey Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#D0D0D0"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Oatmeal Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#F0EBD7"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "White Fleck Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#E6DFDF"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "Aqua Triblend",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#70EBE9"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 120,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjg=",
+    "node": {
+      "entityId": 121,
+      "name": "Letterman Jacket",
+      "path": "/womens-letterman-jacket/",
+      "brand": null,
+      "description": "<p>Reward yourself, friends, and teammates for their hard work and determination&mdash;get a set of matching Letterman Jackets! This jacket sports a gently contoured silhouette and striped twill-taped neck, cuffs, and hem. It&rsquo;s also has a warm fleece lining, 2 spacious slash pockets, and contrasting white snap buttons closure in front. &bull; 65% ring-spun combed cotton, 35% polyester fleece &bull; Regular fit &bull; Fleece lining &bull; 2x2 rib-knit collar, cuffs, and hem &bull; Front closure with white snap buttons &bull; Twill-taped neck in matching color &bull; 2 matching fabric front slash pockets &bull; Blank product sourced from Indonesia</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 54,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/121/402/mockup-008b81ff__29393__62963.1612641602.jpg",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/121/407/mockup-ef7e6106__24046__45133.1612641602.jpg",
+              "altText": "",
+              "isDefault": true
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 94,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 98,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 102,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 109,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 114,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 118,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "XL"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "2XL"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 122,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Gray",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#908989"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjk=",
+    "node": {
+      "entityId": 122,
+      "name": "Unisex Skinny Joggers",
+      "path": "/unisex-skinny-joggers/",
+      "brand": null,
+      "description": "<p>It looks like you found your next favorite workout sweatpants&mdash;the slim fit joggers are light and breathable, making them perfect for sports. Or if you feel like lounging on the couch, these soft joggers are just what you need. &bull; 65% polyester, 35% cotton &bull; Fabric weight: 250 g/m&sup2; (10.5 oz/y&sup2;) &bull; Elastic waistband with a self-colored flat cord &bull; Brushed metal eyelets for the cord &bull; Double layer ribbed ankle cuffs &bull; Side pockets with double layered ribbed hem &bull; Back patch pocket &bull; Slim fit (women may want to order a size down)</p>\n<p>&nbsp;</p>",
+      "prices": {
+        "price": {
+          "value": 44,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/122/415/mockup-9c5e3634__60853__07110.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/122/420/mockup-298fdaa3__84338__39879.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/122/423/mockup-ce086e5f__52042__26735.1612641603.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/122/426/mockup-dbf9eb7b__11067__35768.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 142,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/53_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 154,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/64_source_1612641603.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 166,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/75_source_1612641604.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 176,
+              "defaultImage": {
+                "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/attribute_rule_images/84_source_1612641604.png",
+                "altText": "",
+                "isDefault": true
+              }
+            }
+          },
+          {
+            "node": {
+              "entityId": 180,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 183,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 185,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 187,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 129,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Black",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#0A0A0A"
+                      ]
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "White",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#F8F8F8"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 132,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "XL"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEw",
+    "node": {
+      "entityId": 123,
+      "name": "Next.js Joggers",
+      "path": "/womens-joggers/",
+      "brand": null,
+      "description": "<p>Congrats, you've found your next favorite sweatpants! Made from a soft cotton blend, these joggers feature a vibrant print that won't fade, so they can stay in your wardrobe for a long time.<br /><br />&bull; 70% polyester, 27% cotton, 3% elastane<br />&bull; Fabric weight: 8.85 oz/yd&sup2; (300 g/m&sup2;)<br />&bull; Slim fit<br />&bull; Soft cotton-feel fabric face<br />&bull; Brushed fleece fabric inside<br />&bull; Cuffed legs<br />&bull; Practical pockets<br/>&bull; Elastic waistband with a white drawstring</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 54,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/123/416/mockup-d4159f04__53247__30239.1612641603.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/123/422/mockup-4fdd4e10__97706__11114.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 136,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 141,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 148,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 156,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 162,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 168,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 174,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 127,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "XS"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "XL"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "2XL"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "3XL"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 128,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "White",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#FCF9F9"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEx",
+    "node": {
+      "entityId": 124,
+      "name": "Unisex Joggers",
+      "path": "/unisex-joggers/",
+      "brand": null,
+      "description": "<p>Get ready for that 10K run or take it slow in your backyard&mdash;these joggers are sure to make you feel comfortable either way. </p>\n<p>&bull; 60% cotton, 40% polyester pre-shrunk fleece<br />&bull; Fabric weight: 7.2 oz/yd&sup2; (244 g/m&sup2;)<br />&bull; 1x1 rib cuffs with spandex for stretch and recovery<br />&bull; Elastic waistband with external drawcord<br />&bull; Contrast drawcord and side pockets (all body colors include charcoal gray contrast detailing except black heather, which has black)<br />&bull; Lower rise on the front, longer rise on the backside<br />&bull; Pilling-resistant<br />&bull; Tapered leg</p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">&nbsp;</div>",
+      "prices": {
+        "price": {
+          "value": 34,
+          "currencyCode": "USD"
+        },
+        "salePrice": null,
+        "retailPrice": null
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/124/424/mockup-9fc4c1cf__88683__17751.1612641603.png",
+              "altText": "",
+              "isDefault": true
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/124/430/mockup-b3bfb20a__27807__38860.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          },
+          {
+            "node": {
+              "urlOriginal": "https://cdn11.bigcommerce.com/s-yk6wx80nxq/images/stencil/original/products/124/432/mockup-1fce4854__16542__96449.1612641603.png",
+              "altText": "",
+              "isDefault": false
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "entityId": 161,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 165,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 172,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 179,
+              "defaultImage": null
+            }
+          },
+          {
+            "node": {
+              "entityId": 182,
+              "defaultImage": null
+            }
+          }
+        ]
+      },
+      "productOptions": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 137,
+              "displayName": "Size",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "S"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "M"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "L"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "XL"
+                    }
+                  },
+                  {
+                    "node": {
+                      "label": "2XL"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "MultipleChoiceOption",
+              "entityId": 138,
+              "displayName": "Color",
+              "values": {
+                "edges": [
+                  {
+                    "node": {
+                      "label": "Gray",
+                      "isDefault": false,
+                      "hexColors": [
+                        "#E6E6E6"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]

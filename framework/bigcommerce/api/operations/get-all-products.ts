@@ -7,6 +7,7 @@ import filterEdges from '../utils/filter-edges'
 import setProductLocaleMeta from '../utils/set-product-locale-meta'
 import { productConnectionFragment } from '../fragments/product'
 import { BigcommerceConfig, getConfig } from '..'
+const mysql = require('mysql2/promise');
 
 export const getAllProductsQuery = /* GraphQL */ `
   query getAllProducts(
@@ -34,7 +35,6 @@ export const getAllProductsQuery = /* GraphQL */ `
       }
     }
   }
-
   ${productConnectionFragment}
 `
 
@@ -84,6 +84,15 @@ async function getAllProducts<
   preview?: boolean
 }): Promise<GetAllProductsResult<T>>
 
+// TODO : this ec2 is down so this will not work.
+const pool = mysql.createPool({
+  host            : '18.189.16.137',
+  user            : 'root',
+  password        : 'readyset',
+});
+
+const preparedStatements = {};
+
 async function getAllProducts({
   query = getAllProductsQuery,
   variables: { field = 'products', ...vars } = {},
@@ -94,39 +103,126 @@ async function getAllProducts({
   config?: BigcommerceConfig
   preview?: boolean
 } = {}): Promise<GetAllProductsResult> {
-  config = getConfig(config)
+    config = getConfig(config);
 
-  const locale = vars.locale || config.locale
-  const variables: GetAllProductsQueryVariables = {
-    ...vars,
-    locale,
-    hasLocale: !!locale,
-  }
+    console.time("ConnectionInitialization");
+    let connection = await pool.getConnection();
+    console.timeEnd("ConnectionInitialization");
 
-  if (!FIELDS.includes(field)) {
-    throw new Error(
-      `The field variable has to match one of ${FIELDS.join(', ')}`
-    )
-  }
+    console.time("Bruteforce");
+    let products = (await connection.query('SELECT products.* FROM products'))[0];
+    let entityIds = products.map(x => x['entityId']);
 
-  variables[field] = true
+    let imagesProm = Promise.all(entityIds.map(x => connection.execute('SELECT images.* FROM images WHERE images.productEntityId = ?', [x])));
+    let variantsProm = Promise.all(entityIds.map(x => connection.execute('SELECT variants.* FROM variants WHERE variants.productEntityId = ?', [x])));
+    let productOptionsProm = Promise.all(entityIds.map(x => connection.execute('SELECT productOptions.*, FROM productOptions WHERE productOptions.productEntityId = ?', [x])));
+    let productOptionsItemProm = Promise.all(entityIds.map(x => connection.execute('SELECT productOptions.*, productOptionsItem.* FROM productOptions JOIN productOptionsItem ON productOptions.entityId = productOptionsItem.productOptionsEntityId WHERE productOptions.productEntityId = ?', [x])));
 
-  // RecursivePartial forces the method to check for every prop in the data, which is
-  // required in case there's a custom `query`
-  const { data } = await config.fetch<RecursivePartial<GetAllProductsQuery>>(
-    query,
-    { variables }
-  )
-  const edges = data.site?.[field]?.edges
-  const products = filterEdges(edges as RecursiveRequired<typeof edges>)
+    let images = await imagesProm;
+    let variants = await variantsProm;
+    let productOptions = await productOptionsProm;
+    let productOptionsItem = await productOptionsItemProm;
+    console.timeEnd("Bruteforce");
 
-  if (locale && config.applyLocale) {
-    products.forEach((product: RecursivePartial<ProductEdge>) => {
-      if (product.node) setProductLocaleMeta(product.node)
-    })
-  }
+    let productsRes = [];
 
-  return { products }
+    for (let i in products) {
+        let product = products[i];
+        let mimages = images[i][0];
+        let variant = variants[i][0];
+        let options = productOptions[i][0];
+        let optionItems = productOptionsItem[i][0];
+
+        let node = {};
+        node['entityId'] = product['entityId'];
+        node['name'] = product['name'];
+        node['path'] = product['path'];
+        if (product['brand']) {
+            node['brand'] = {'entityId': product['brand']};
+        } else {
+            node['brand'] = null;
+        }
+        node['description'] = product['description'];
+        node['prices'] = {
+            'price': {
+                'value': parseFloat(product['price']),
+                'currencyCode': 'USD',
+            },
+            'salePrice': null,
+            'retailPrice': null,
+        };
+        let imageEdges = [];
+        for (let image of mimages) {
+            imageEdges.push({
+                'node': {
+                    'urlOriginal': image['urlOriginal'] || null,
+                    'altText': '',
+                    'isDefault': image['isDefault'] == 1,
+                }
+            });
+        }
+        node['images'] = {'edges': imageEdges};
+
+        let variantEdges = [];
+        for (let v of variant) {
+            let image;
+            if (v['defaultImage'] === undefined) {
+                image = null;
+            } else {
+               image = {
+                   "urlOriginal": v['defaultImage'],
+                   "altText": "",
+                   "isDefault": true
+               }
+            }
+            variantEdges.push({
+                'node': {
+                    'entityId': v['entityId'],
+                    'defaultImage': image,
+                }
+            });
+        }
+        node['variants'] = {'edges': variantEdges};
+
+        let productOptionsEdges = [];
+        for (let op of options) {
+            let ops = [];
+            for (let opv of optionItems) {
+                if (opv.productOptionsEntityId !== op.entityId) {
+                    continue;
+                }
+                let nod = {
+                        'label': opv['label'],
+                        'isDefault': opv['isDefault'],
+                };
+                if (opv['hexColors'] !== undefined) {
+                    nod['hexColors'] = [opv['hexColors']]
+                }
+                ops.push({
+                    'node': nod
+                });
+            }
+
+            productOptionsEdges.push({
+                'node': {
+                    '__typename': 'MultipleChoiceOption',
+                    'entityId': op['entityId'],
+                    'displayName': op['displayName'],
+                    'values': {'edges': ops},
+                }
+            });
+        }
+        node['productOptions'] = {'edges': productOptionsEdges};
+
+        productsRes.push({'node': node});
+    }
+
+    return {
+        products: productsRes,
+        featuredProducts: productsRes,
+        bestSellingProducts: productsRes,
+        newestProducts: productsRes,
+    }
 }
 
 export default getAllProducts
